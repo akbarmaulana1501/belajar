@@ -8,7 +8,7 @@
                                             <li class="breadcrumb-item active">Dashboard</li>
                                         </ol>
                                     </div>
-                                    <!-- <h4 class="page-title">Seelamat datang <?= $this->App->aplikasi()['nama']; echo ' anda login sebagai ' .$this->App->aplikasi()['role'];?> ! </h4>  -->
+                                    <!-- <h4 class="page-title">Seelamat datang akbar <?= $this->App->aplikasi()['nama']; echo ' anda login sebagai ' .$this->App->aplikasi()['role'];?> ! </h4>  -->
                                 </div>
                             </div>
                         </div>     
