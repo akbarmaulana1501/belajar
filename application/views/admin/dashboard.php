@@ -23,7 +23,7 @@
                                     <div class="card card-border">
                                         <div class="card-header border-primary pb-0">
                                             <div class="card-body text-center mt-2 mb-2">
-                                                <h4 class="page-title">Selamat datang <span class="text-primary"><?= $this->App->aplikasi()['nama']; echo ' ! </span></h4> <span>Anda login sebagai</span> <br> <br> <strong class="text-primary">' .$this->App->aplikasi()['nm_unit_level'].' '.$this->App->aplikasi()['nm_unit_kerja_sub'].' '.$this->App->aplikasi()['nm_unit_usaha'].'</strong>';?>  
+                                                <h4 class="page-title">Selamat datang akbar <span class="text-primary"><?= $this->App->aplikasi()['nama']; echo ' ! </span></h4> <span>Anda login sebagai</span> <br> <br> <strong class="text-primary">' .$this->App->aplikasi()['nm_unit_level'].' '.$this->App->aplikasi()['nm_unit_kerja_sub'].' '.$this->App->aplikasi()['nm_unit_usaha'].'</strong>';?>  
                                             </div>
                                         </div>
                                     </div>
